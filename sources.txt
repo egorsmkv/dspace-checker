@@ -1,0 +1,12 @@
+http://dspace.oneu.edu.ua/jspui/browse?type=dateissued&sort_by=2&order=DESC&rpp=20&etal=0
+http://dspace.zsmu.edu.ua/browse?type=dateissued&sort_by=2&order=DESC&rpp=20&etal=0
+
+https://dspace.megu.edu.ua:8443/jspui/browse?type=dateissued&sort_by=2&order=DESC&rpp=20&etal=0&submit_browse=Update
+
+http://eir.zntu.edu.ua/browse?type=dateissued&sort_by=2&order=DESC&rpp=20&etal=0&submit_browse=Update
+
+http://lib.pnu.edu.ua:8080/browse?type=dateissued&sort_by=2&order=DESC&rpp=20&etal=0&submit_browse=Update
+
+http://dspace.idgu.edu.ua/jspui/browse?type=dateissued&sort_by=2&order=DESC&rpp=20&etal=0&submit_browse=%D0%9E%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D0%B8
+
+http://dspace.idgu.edu.ua/jspui/browse?type=dateissued&sort_by=2&order=DESC&rpp=20&etal=0&submit_browse=%D0%9E%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D0%B8
